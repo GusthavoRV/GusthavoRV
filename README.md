@@ -1,16 +1,46 @@
-### Hi there 👋
+# 👋 Olá, eu sou o Gusthavo Rangel!
 
-<!--
-**GusthavoRV/GusthavoRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **desenvolvedor fullstack** e trabalho atualmente na [Flai Informática e Administração LTDA](https://www.flai.com.br) (CNPJ 41.904.258/0001-08), empresa fundada em Sorocaba/SP em 2021, que atua com **desenvolvimento e licenciamento de softwares customizáveis**.  
 
-Here are some ideas to get you started:
+💻 Trabalho com programação desde 2023, sempre buscando evoluir minhas habilidades técnicas e entregar soluções robustas e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+### 💡 Linguagens
+- JavaScript  
+- TypeScript  
+- Delphi 7  
+- SQL (PostgreSQL & SQL Server)  
+
+### 🎨 Frontend
+- React.js  
+- Next.js  
+
+### ⚙️ Backend
+- Node.js  
+- NestJS  
+
+### 📦 Infraestrutura & DevOps
+- Docker  
+- Nginx  
+- AWS  
+
+---
+
+## 📊 Sobre mim
+- 🔭 Atualmente trabalho como **Fullstack Developer** na Flai Informática.  
+- 🌱 Sempre estudando novas tecnologias e boas práticas de desenvolvimento.  
+- ⚡ Apaixonado por criar soluções que impactem de forma positiva a vida das pessoas.  
+
+---
+
+## 📫 Contato
+- ✉️ **Email**: gusthavo.rangel@example.com  
+- 💼 **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+- 🐙 **GitHub**: [github.com/seu-usuario](https://github.com/seu-usuario)  
+
+---
+
+✨ _"Transformando código em soluções que fazem a diferença."_  
