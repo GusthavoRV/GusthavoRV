@@ -37,9 +37,9 @@ Sou **desenvolvedor fullstack** e trabalho atualmente na [Flai Informática e Ad
 ---
 
 ## 📫 Contato
-- ✉️ **Email**: gusthavo.rangel@example.com  
-- 💼 **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-- 🐙 **GitHub**: [github.com/seu-usuario](https://github.com/seu-usuario)  
+- ✉️ **Email**: gusthavorv@gmail.com 
+- 💼 **LinkedIn**: [linkedin.com/in/gusthavo-rangel-vieira](https://www.linkedin.com/in/gusthavo-rangel-vieira-760527211/)  
+- 🐙 **GitHub**: [github.com/GusthavoRV]([https://github.com/seu-usuario](https://github.com/GusthavoRV))  
 
 ---
 
