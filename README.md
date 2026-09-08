@@ -121,6 +121,6 @@ confidencialidade.
 
 ## Contato
 
-- **E-mail** — gusthavorv@gmail.com
+- **E-mail** — gusthavorangel@gmail.com
 - **LinkedIn** — [gusthavo-rangel-vieira](https://www.linkedin.com/in/gusthavo-rangel-vieira-760527211/)
 - **Conta corporativa** — [@gusthavo-rangel](https://github.com/gusthavo-rangel)
