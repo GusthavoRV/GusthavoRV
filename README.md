@@ -6,11 +6,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas, FATEC Sorocaba (2024)
 Lidero o desenvolvimento de um portfólio de SaaS e sistemas corporativos na
 [FLAI Informática e Administração](https://www.flai.tec.br). Sou o maior
 contribuidor individual das bases, já coloquei **mais de 10 produtos em
-produção** e opero a infraestrutura que sustenta todos eles: cerca de 40 VPS
-e 8 servidores on-premise.
-
-Trabalho ponta a ponta. Da decisão de arquitetura ao plantão quando o disco
-enche às duas da manhã.
+produção** e opero a infraestrutura que sustenta todos eles.
 
 ---
 
