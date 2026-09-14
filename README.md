@@ -1,48 +1,48 @@
 # Gusthavo Rangel
 
-**Senior Full-Stack Developer & Tech Lead** — Sorocaba/SP, Brasil
+**Full-Stack Developer** — Sorocaba/SP, Brasil
 Tecnólogo em Análise e Desenvolvimento de Sistemas, FATEC Sorocaba (2024)
 
-Lidero o desenvolvimento de um portfólio de SaaS e sistemas corporativos na
-[FLAI Informática e Administração](https://www.flai.tec.br). Sou o maior
-contribuidor individual das bases, já coloquei **mais de 10 produtos em
-produção** e opero a infraestrutura que sustenta todos eles.
+Desenvolvo um portfólio de SaaS e sistemas corporativos na
+[FLAI Informática e Administração](https://www.flai.tec.br). Já coloquei
+**mais de 10 produtos em produção** e opero a infraestrutura que sustenta
+todos eles: ~40 VPS e 8 servidores on-premise.
 
 ---
 
 ## Domínios que eu conheço a fundo
 
-Não se aprendem em tutorial. Cada um custou meses de borda e incidente real.
+Não se aprendem em tutorial. Cada um custou meses de caso de borda e incidente real.
 
-| Domínio | O que eu já resolvi em produção |
-|---|---|
-| **Fiscal brasileiro** | NF-e, MDF-e, NFS-e, SEFAZ e Focus NFe, rejeições, DIFAL, import de XML, reforma tributária IBS/CBS |
-| **Pagamentos** | Stripe, Asaas, Celcoin, PIX, escrow, conciliação, split |
-| **Open Finance** | Pluggy e Klavi: consentimento, sincronização de extrato, duplicata por troca de ID, fatura aberta de cartão |
-| **Marketplaces** | Mercado Livre, Shopee, Amazon |
-| **Logística** | Correios, Melhor Envio |
-| **IA aplicada** | RAG multi-tenant com pgvector, agentes com Mastra, pipeline de voz (Deepgram + Claude + ElevenLabs) |
-| **Multi-tenant em escala** | Plataforma de assistência técnica autorizada rodando em 30 VPS, uma por rede credenciada |
+| Domínio                    | O que eu já resolvi em produção                                                                             |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Fiscal brasileiro**      | NF-e, MDF-e, NFS-e, SEFAZ e Focus NFe, rejeições, DIFAL, import de XML, reforma tributária IBS/CBS          |
+| **Pagamentos**             | Stripe, Asaas, Celcoin, PIX, escrow, conciliação, split                                                     |
+| **Open Finance**           | Pluggy e Klavi: consentimento, sincronização de extrato, duplicata por troca de ID, fatura aberta de cartão |
+| **Marketplaces**           | Mercado Livre, Shopee, Amazon                                                                               |
+| **Logística**              | Correios, Melhor Envio                                                                                      |
+| **IA aplicada**            | RAG multi-tenant com pgvector, agentes com Mastra, pipeline de voz (Deepgram + Claude + ElevenLabs)         |
+| **Multi-tenant em escala** | Plataforma de assistência técnica autorizada rodando em 30 VPS, uma por rede credenciada                    |
 
 ---
 
 ## Stack
 
 ```
-Backend        TypeScript · Fastify 5 · NestJS · Drizzle · Zod · BullMQ · Argon2
-               Go 1.24 · Fiber
-Frontend       Next.js 15 · React 19 · TanStack Start · oRPC · Better Auth · Tailwind
-Mobile         React Native (Expo 55) · Expo Router · Zustand · Reanimated 4
-               Flutter · Riverpod
-Desktop        Electron · Tauri 2 · Wails v2
-Dados          PostgreSQL 17 · pgvector · SQLite · Redis 8 · Cloudflare R2
-IA             Mastra · Vercel AI SDK · Claude · OpenAI embeddings · Deepgram · ElevenLabs
-Infra          Docker Compose · Kong · Traefik · Nginx · WireGuard · Pulumi
-               Cloudflare Workers · AWS ECS Fargate + RDS
+Backend         TypeScript · Fastify · NestJS · Drizzle · Zod · BullMQ · Argon2
+                Go · Fiber
+Frontend        Next.js · React 19 · TanStack Start · oRPC · Better Auth · Tailwind
+Mobile          React Native · Expo Router · Zustand · Reanimated
+                Flutter · Riverpod
+Desktop         Electron · Tauri 2 · Wails
+Dados           PostgreSQL · pgvector · SQLite · Redis · Cloudflare R2
+IA              Mastra · Vercel AI SDK · Claude · OpenAI embeddings · Deepgram · ElevenLabs
+Infra           Docker Compose · Kong · Traefik · Nginx · WireGuard · Pulumi
+                Cloudflare Workers · AWS ECS Fargate + RDS
 Observabilidade Grafana Alloy · Prometheus · Loki · SigNoz · Wazuh · CrowdSec
-Automação      n8n · Chatwoot · Evolution API · Typebot
-Tooling        pnpm workspaces · Turborepo · Biome · Vitest · Trigger.dev · EAS Build
-Legado         Delphi 7 · SQL Server
+Automação       n8n · Chatwoot · Evolution API · Typebot
+Tooling         pnpm workspaces · Turborepo · Biome · Vitest · Trigger.dev · EAS Build
+Legado          Delphi 7 · SQL Server
 ```
 
 ---
@@ -57,7 +57,7 @@ Electron que preenche formulários de portais de terceiros por automação, e um
 ferramenta Android que lê Key Attestation com ES256 para emitir certificado de
 apagamento de dados em conformidade com a LGPD.
 
-**Fintech de fluxo de caixa com Open Finance.**
+**[Fintech de fluxo de caixa com Open Finance](https://mdfacil.net).**
 Next.js e Fastify sobre Postgres com pgvector, dois VPS atrás de load balancer da
 Cloudflare com WireGuard entre eles. Integração com Pluggy, Celcoin homologado
 para iniciação de pagamento, e um copiloto de IA com RAG isolado por tenant.
@@ -117,6 +117,6 @@ confidencialidade.
 
 ## Contato
 
-- **E-mail** — gusthavorangel@gmail.com
+- **E-mail** — <gusthavorangel@gmail.com>
 - **LinkedIn** — [gusthavo-rangel-vieira](https://www.linkedin.com/in/gusthavo-rangel-vieira-760527211/)
 - **Conta corporativa** — [@gusthavo-rangel](https://github.com/gusthavo-rangel)
