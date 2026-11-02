@@ -1,10 +1,9 @@
 # Gusthavo Rangel
 
-**Desenvolvedor Full Stack Pleno** — Sorocaba/SP, Brasil
-
+**Desenvolvedor Full Stack Pleno**, Sorocaba/SP, Brasil. Site: [gusthavorangel.com.br](https://gusthavorangel.com.br)
 Análise e Desenvolvimento de Sistemas, FATEC Sorocaba (2024)
 
-Desde 2023, na [FLAI Informática e Administração](https://github.com/FLAI-INFORMATICA-E-ADM), participo da construção dos produtos SaaS da empresa e de sistemas de clientes, do zero até a produção: mais de 10 sistemas no ar hoje, entre fintech, BI com IA, gestão de obras, manutenção residencial, marketplace, assistência técnica e mídia digital. Também opero a infraestrutura que sustenta esses produtos.
+Desde 2023, na [FLAI Informática e Administração](https://github.com/FLAI-INFORMATICA-E-ADM), participo da construção dos produtos SaaS da empresa e de sistemas de clientes, do zero até a produção: mais de 10 sistemas no ar hoje, entre fintech, BI com IA, gestão de obras, manutenção residencial, marketplace, assistência técnica e mídia digital. Também opero a infraestrutura que sustenta tudo isso (cerca de 40 VPS e 8 servidores on-premise).
 
 ## O que eu construo
 
@@ -41,7 +40,7 @@ Produtos da FLAI e sistemas de clientes em que atuo como desenvolvedor principal
 | [Trappi](https://trappi.net.br) | Mídia DOOH em tablets instalados em veículos | Go · Next.js · Flutter · PostgreSQL |
 | [RAQ ONE](https://raqone.com.br) | Marketplace de esportes de raquete, com app nas lojas, pagamentos e logística | Fastify · Expo · PostgreSQL · Redis |
 
-Projeto pessoal, código aberto: **Quitute** — app de gestão financeira para quem vende salgados e doces (React Native/Expo, SQLite).
+Projeto pessoal, código aberto: **Quitute**, app de gestão financeira para quem vende salgados e doces (React Native/Expo, SQLite).
 
 ## Como eu trabalho
 
@@ -56,6 +55,7 @@ O que aparece público aqui é, em boa parte, material de faculdade e projetos p
 
 ## Contato
 
-- E-mail — gusthavorangel@gmail.com
-- LinkedIn — [linkedin.com/in/gusthavorangel](https://www.linkedin.com/in/gusthavorangel)
-- Conta corporativa — [@gusthavo-rangel](https://github.com/gusthavo-rangel)
+- Site: [gusthavorangel.com.br](https://gusthavorangel.com.br)
+- E-mail: gusthavorangel@gmail.com
+- LinkedIn: [linkedin.com/in/gusthavorangel](https://www.linkedin.com/in/gusthavorangel)
+- Conta corporativa: [@gusthavo-rangel](https://github.com/gusthavo-rangel)
