@@ -1,9 +1,10 @@
 # Gusthavo Rangel
 
 **Desenvolvedor Full Stack Pleno** — Sorocaba/SP, Brasil
+
 Análise e Desenvolvimento de Sistemas, FATEC Sorocaba (2024)
 
-Desde 2023, na [FLAI Informática e Administração](https://github.com/FLAI-INFORMATICA-E-ADM), participo da construção dos produtos SaaS da empresa e de sistemas de clientes, do zero até a produção: mais de 10 sistemas no ar hoje, entre fintech, BI com IA, gestão de obras, manutenção residencial, marketplace, assistência técnica e mídia digital. Também opero a infraestrutura que sustenta tudo isso (cerca de 40 VPS e 8 servidores on-premise).
+Desde 2023, na [FLAI Informática e Administração](https://github.com/FLAI-INFORMATICA-E-ADM), participo da construção dos produtos SaaS da empresa e de sistemas de clientes, do zero até a produção: mais de 10 sistemas no ar hoje, entre fintech, BI com IA, gestão de obras, manutenção residencial, marketplace, assistência técnica e mídia digital. Também opero a infraestrutura que sustenta esses produtos.
 
 ## O que eu construo
 
